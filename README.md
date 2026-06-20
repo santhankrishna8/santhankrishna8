@@ -3,6 +3,8 @@
 **Full-Stack Developer | TypeScript Enthusiast | Building Scalable Web Applications**
 
 [![GitHub followers](https://img.shields.io/github/followers/santhankrishna8?label=Follow&style=social)](https://github.com/santhankrishna8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-santhan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhan-krishna-13460a219/)
 ![Profile views](https://komarev.com/ghpvc/?username=santhankrishna8&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -13,6 +15,7 @@
 - 🛠️ I work extensively with **TypeScript**, **JavaScript**, **Angular**, **Spring Boot** & **Node.js**
 - 💡 I love crafting full-stack applications — from healthcare systems to AI-powered tools
 - 🌱 Always learning and exploring new technologies in the web ecosystem
+- 🌐 Portfolio: [portfolio-santhan.vercel.app](https://portfolio-santhan.vercel.app/)
 - 📫 Reach me on GitHub: [@santhankrishna8](https://github.com/santhankrishna8)
 
 ---
