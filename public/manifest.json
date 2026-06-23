@@ -1,0 +1,17 @@
+{
+  "name": "Spotlight — Find the best around you",
+  "short_name": "Spotlight",
+  "description": "AI-powered recommendations for the best hotels, restaurants, and schools near you.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070d",
+  "theme_color": "#6d5efc",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

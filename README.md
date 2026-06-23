@@ -1,78 +1,121 @@
-# Hi there, I'm V Muni Santhan Krishna 👋
+# ✨ Spotlight — Find the best around you
 
-**Full-Stack Developer | TypeScript Enthusiast | Building Scalable Web Applications**
+An AI-powered recommendation app that finds the **best hotels, restaurants, and
+schools** near you, ranked by **real ratings & reviews**, with an AI concierge
+that tells you exactly where to go — and what to order.
 
-[![GitHub followers](https://img.shields.io/github/followers/santhankrishna8?label=Follow&style=social)](https://github.com/santhankrishna8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-santhan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhan-krishna-13460a219/)
-![Profile views](https://komarev.com/ghpvc/?username=santhankrishna8&label=Profile%20views&color=0e75b6&style=flat)
+Built with **Next.js 16 + React 19**, **Tailwind CSS v4**, **Google Maps
+Platform** (Maps + Places API), and the **OpenAI API**. Fully responsive,
+installable as an app (PWA), with **dark / light** themes.
 
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently building **devForge** — a developer productivity platform
-- 🛠️ I work extensively with **TypeScript**, **JavaScript**, **Angular**, **Spring Boot** & **Node.js**
-- 💡 I love crafting full-stack applications — from healthcare systems to AI-powered tools
-- 🌱 Always learning and exploring new technologies in the web ecosystem
-- 🌐 Portfolio: [portfolio-santhan.vercel.app](https://portfolio-santhan.vercel.app/)
-- 📫 Reach me on GitHub: [@santhankrishna8](https://github.com/santhankrishna8)
+> 💡 The app runs with realistic **sample data out of the box**, so you can demo
+> it immediately. Add your API keys to switch to live data — nothing breaks if a
+> key isn't ready.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-**Languages:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries:**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- 🔎 **Discover** hotels, restaurants & schools with one tap.
+- ⭐ **Ratings-first ranking** (combines rating + number of reviews).
+- 🗺️ **Interactive Google Map** with custom rating pins.
+- 🤖 **Ask Spotlight AI** — "What should I eat tonight?", "Best family hotel" …
+  Returns personalized picks with reasons + highlights them in the list.
+- 📋 **Place details** — photos, reviews, an **AI review summary**, and
+  **"What to eat"** dish suggestions for restaurants.
+- 🌗 **Dark / light / system theme**, smooth animations, accessible, PWA-ready.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Run it locally (beginner-friendly)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔧 devForge](https://github.com/santhankrishna8/devForge) | Developer productivity & tooling platform | TypeScript |
-| [🎵 paatify](https://github.com/santhankrishna8/paatify) | Music streaming application | TypeScript |
-| [🎟️ darshan-ticketing-system](https://github.com/santhankrishna8/darshan-ticketing-system) | Online ticketing system for Darshan | TypeScript |
-| [🏥 patient-management](https://github.com/santhankrishna8/patient-management) | Patient records & management system | TypeScript |
-| [📊 stocks-tracker](https://github.com/santhankrishna8/stocks-tracker) | Real-time stock tracking dashboard | TypeScript |
-| [🤖 AI_Tools](https://github.com/santhankrishna8/AI_Tools) | Collection of AI-powered utilities | HTML/JS |
-| [🪑 exam-seating-planner](https://github.com/santhankrishna8/exam-seating-planner) | Automated exam hall seating planner | TypeScript |
-| [🧾 ATS-Resume-Generator-n8n](https://github.com/santhankrishna8/ATS-Resume-Generator-n8n) | ATS-optimized resume generator via n8n | Automation |
-| [🏠 interior-design-web](https://github.com/santhankrishna8/interior-design-web) | Interior design showcase website | CSS |
-| [🎪 sambhram-conference](https://github.com/santhankrishna8/sambhram-conference) | Conference event management website | HTML |
+You need **[Node.js](https://nodejs.org) 18+** installed.
 
----
+```bash
+# 1. Install dependencies
+npm install
 
-## 📊 GitHub Stats
+# 2. (Optional) add your API keys — see below. You can skip this and use demo data.
+cp .env.example .env.local
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhankrishna8&show_icons=true&theme=tokyonight&hide_border=true)
+# 3. Start the app
+npm run dev
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhankrishna8&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhankrishna8&theme=tokyonight&hide_border=true)
+Open **http://localhost:3000** in your browser. Done! 🎉
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔑 Getting the API keys (for live data)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=santhankrishna8&theme=tokyonight&no-frame=true&row=1&column=6)
+You can demo without these, but here's how to go live.
+
+### 1. Google Maps + Places (`NEXT_PUBLIC_GOOGLE_MAPS_API_KEY` & `GOOGLE_PLACES_API_KEY`)
+
+1. Go to the **[Google Cloud Console](https://console.cloud.google.com/)** and
+   create a project.
+2. Enable **billing** (Google gives a generous free monthly credit).
+3. In **APIs & Services → Library**, enable:
+   - **Maps JavaScript API**
+   - **Places API (New)**
+4. In **APIs & Services → Credentials**, click **Create credentials → API key**.
+5. Use the key for **both** variables (or create two keys):
+   - `NEXT_PUBLIC_GOOGLE_MAPS_API_KEY` → restrict by **HTTP referrer** (your
+     site URL). This one is visible in the browser, so restricting it is
+     important.
+   - `GOOGLE_PLACES_API_KEY` → keep it **unrestricted by referrer** (it's only
+     used server-side) but restrict it to the **Places API**.
+
+### 2. OpenAI (`OPENAI_API_KEY`)
+
+1. Go to **[platform.openai.com](https://platform.openai.com/)** → **API keys**.
+2. Add billing credits, then **Create new secret key** and copy it.
+
+Paste all keys into **`.env.local`** and restart `npm run dev`.
 
 ---
 
-> *⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House*
+## ☁️ Deploy a live demo (Vercel — free)
+
+1. Push this code to a **GitHub repository** (see below).
+2. Go to **[vercel.com](https://vercel.com)** → **Add New → Project** → import
+   your repo.
+3. In **Environment Variables**, add the three keys from `.env.local`.
+4. Click **Deploy**. You'll get a public `https://…vercel.app` link that works
+   on any phone or laptop — perfect for the demo.
+
+---
+
+## 🗂️ Moving this code into your own private repo
+
+This project currently lives on a branch of an existing repo. To put it in a
+fresh **private** repository:
+
+```bash
+# Create a new EMPTY private repo on github.com first (no README), then:
+git remote add spotlight https://github.com/<your-username>/<your-repo>.git
+git push spotlight HEAD:main
+```
+
+---
+
+## 🧱 Project structure
+
+```
+src/
+  app/
+    page.tsx              # Discover screen (search, tabs, map, list, AI)
+    layout.tsx            # Theme, fonts, PWA metadata
+    globals.css           # Design system (brand colors, glass, dark/light)
+    api/
+      places/nearby       # Google Places search (mock fallback)
+      places/details      # Place details + reviews
+      places/photo        # Photo proxy (keeps the API key server-side)
+      ai/suggest          # OpenAI ranked recommendations
+      ai/insights         # OpenAI review summary + "what to eat"
+  components/              # UI: map, cards, detail sheet, AI panel, theme…
+  lib/                     # types, Google + OpenAI clients, mock data, utils
+```
+
+Keys are **never exposed** to the browser except the referrer-restricted Maps
+key; Places and OpenAI calls all run inside server route handlers.
