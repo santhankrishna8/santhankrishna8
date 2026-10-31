@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/santhankrishna8?label=Follow&style=social)](https://github.com/santhankrishna8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-santhan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhan-krishna-13460a219/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santhankrishna18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=santhankrishna18@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=santhankrishna8&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -19,7 +19,7 @@
 - 🌍 Shipped **20+ live web apps** on Vercel — from temple ticketing systems to AI-powered recommendation tools
 - ✍️ Wrote on Medium: *How to Self-Host n8n for Free Using Render and Supabase*
 - 🌐 Portfolio: [portfolio-santhan.vercel.app](https://portfolio-santhan.vercel.app/)
-- 📫 Reach me at: [santhankrishna18@gmail.com](mailto:santhankrishna18@gmail.com)
+- 📫 Reach me at: [santhankrishna18@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=santhankrishna18@gmail.com)
 
 ---
 
