@@ -95,17 +95,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhankrishna8&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhankrishna8&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhankrishna8&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhankrishna8&theme=tokyonight" alt="Top Languages" height="160" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=santhankrishna8&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=santhankrishna8&theme=tokyonight&no-frame=true&row=1&column=6)
+![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhankrishna8&theme=tokyonight)
 
 ---
 
