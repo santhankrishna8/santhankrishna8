@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💼 Software Engineer with **1.11 years** of experience building **Java** and **Angular** systems (Ticking Minds, LTIMindtree)
+- 💼 Software Engineer with **~2 years** of experience building **Java** and **Angular** systems (Ticking Minds, LTIMindtree)
 - 🏦 Built an internal **ISO 20022 Validation Hub** — payment message validator & generator across 19 message types, MT-to-MX conversion
 - 🤖 Hands-on with **GenAI** — RAG, OpenAI API, embeddings, semantic search, prompt engineering & **MCP**
 - 🛠️ I work extensively with **Java**, **TypeScript**, **Angular**, **Spring Boot**, **FastAPI** & **Firebase**
